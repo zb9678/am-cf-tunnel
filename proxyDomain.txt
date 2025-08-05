@@ -1,5 +1,4 @@
 tiktok.com
 x.com
 chatgpt.com
-nat.freecloud.ltd
-dash.cloudflare.com
+
