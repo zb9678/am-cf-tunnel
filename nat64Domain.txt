@@ -1,3 +1,4 @@
 chatgpt.com
 twitch.tv
-nat.freecloud.ltd/login
+nat.freecloud.ltd
+dash.cloudflare.com
