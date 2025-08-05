@@ -1,3 +1,2 @@
 twitch.tv
-nat.freecloud.ltd
-dash.cloudflare.com
+
